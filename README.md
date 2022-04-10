@@ -12,7 +12,7 @@
 
 ## 👤 About
 
-<img align="right" width="400" src="https://github.com/TigerRuslan/tigerruslan.github.io/blob/master/img/hero/image_1.png" alt="Ruslan Havrylov" />      
+<img align="right" width="300" src="https://github.com/TigerRuslan/tigerruslan.github.io/blob/master/img/hero/image_1.png" alt="Ruslan Havrylov" />      
 
 I am a senior fullstack (and fullstack) software engineer based in Mariupol Ukraine, with 6+ years of professional experience.
   
