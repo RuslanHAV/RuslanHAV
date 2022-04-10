@@ -1,19 +1,9 @@
 
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'm Ruslan</h1>
 
 <p align="center">
-  <a href="https://twitter.com/Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/979052/alicia"><img src="https://img.shields.io/badge/-Alicia_Sykes-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://profile.codersrank.io/user/lissy93"><img src="https://img.shields.io/badge/-Lissy93-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
   <a href="https://github.com/Lissy93"><img src="https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  <a href="https://notes.aliciasykes.com"><img src="https://img.shields.io/badge/-Alicia's_Notes-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
-  <a href="https://keybase.io/aliciasykes"><img src="https://img.shields.io/badge/-aliciasykes-5e78ef?style=flat&logo=keybase&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aliciasykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-</p>
-  
-<p align="center">
-<a href="mailto:alicia@omg.lol"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org"><code>@lissy93:matrix.org</code></a>
 </p>
   
 <p align="center">
@@ -23,13 +13,12 @@
 
 <!-- About Section -->
 <details>
-  <summary><b>👤 About</b></summary>
     <p>
       <img align="right" width="400" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
       
 <blockquote>
 
-I am a senior frontend (and fullstack) software engineer based in London UK, with 10+ years of professional experience.
+I am a senior fullstack (and fullstack) software engineer based in Mariupol Ukraine, with 6+ years of professional experience.
   
 I'm genuinely passionate about writing great code, with maintainability in-mind. I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
@@ -46,60 +35,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   
   </p>
 </details>
-  
-  
-<!-- Blog Posts -->
-<details>
-  <summary><b>📰 Latest Blog Posts</b></summary>
-    <p>
-       
-<a href="https://notes.aliciasykes.com"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="Alicia Sykes Blog" /></a>
-      
-      
-<!-- BLOG-POST-LIST:START -->
-- [One-Line Web Server 🖥️](https://notes.aliciasykes.com/32456/one-line-web-server)
-- [Dashy - A Self-Hosted Home Lab Dashboard 🚀](https://notes.aliciasykes.com/25291/dashy-a-self-hosted-home-lab-dashboard)
-- [Using Espanso to boost Efficiency 🚤](https://notes.aliciasykes.com/25213/using-espanso-to-boost-efficiency)
-- [My Life in Months 🗓️](https://notes.aliciasykes.com/24701/my-life-in-months)
-- [Quick How-To Guides 💫](https://notes.aliciasykes.com/23844/quick-how-to-guides)
-- [SSH Tarpit with EndleSsh 🪤🕳️](https://notes.aliciasykes.com/23745/ssh-tarpit-with-endlessh)
-- [Pimping up Your DuckDuckGo Search Results 💄](https://notes.aliciasykes.com/23054/pimping-up-your-duckduckgo-search-results)
-- [My Server Setup ⚙️](https://notes.aliciasykes.com/22798/my-server-setup)
-<!-- BLOG-POST-LIST:END -->
 
-➡️  [More Posts](/BLOG-POSTS.md)
-
-----
-
-</p>
-</details>
-
-<!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<img align='right' width='85' src='https://i.ibb.co/qWWpD0v/astro-dab-128.png' alt='Astro Dab'>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#595](https://github.com/Lissy93/dashy/pull/595) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-2. ❗️ Closed issue [#592](https://github.com/Lissy93/dashy/issues/592) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#592](https://github.com/Lissy93/dashy/issues/592) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-4. 🎉 Merged PR [#130](https://github.com/Lissy93/personal-security-checklist/pull/130) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-5. 🎉 Merged PR [#52](https://github.com/Lissy93/personal-security-checklist/pull/52) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-6. 🎉 Merged PR [#112](https://github.com/Lissy93/personal-security-checklist/pull/112) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-7. 🎉 Merged PR [#128](https://github.com/Lissy93/personal-security-checklist/pull/128) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-8. 🎉 Merged PR [#124](https://github.com/Lissy93/personal-security-checklist/pull/124) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-9. 🎉 Merged PR [#123](https://github.com/Lissy93/personal-security-checklist/pull/123) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-10. 🎉 Merged PR [#122](https://github.com/Lissy93/personal-security-checklist/pull/122) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-<!--END_SECTION:activity-->
-
-➡️  [More Activity](/RECENT-ACTIVITY.md)
-
-----
-
-</p>
-</details>
 
 <!-- Tech Stack -->  
 <details>
