@@ -18,6 +18,9 @@ I am a senior fullstack (and fullstack) software engineer based in Mariupol Ukra
   
 I am a recent graduate of programming courses seeking a position or a project where my acquired skills and knowledge will be of value. I am well-organized and efficient developer able to work hard to achieve goals.
 
+I am passionate and familiar with complex websites.
+
+My arms are open for you.
     
 ## 🛠 Tech Stacks
 
