@@ -7,7 +7,7 @@
 </p>
   
 <p align="center">
-<img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+<!-- <img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /> -->
 </p>
 
 ## 👤 About
