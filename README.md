@@ -2,7 +2,7 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'm Ruslan</h1>
 
 <p align="center">
-  <a href="https://github.com/TigerRuslan"><img src="https://img.shields.io/static/v1?label=&message=Github&color=3a3a3a&logo=github&logoColor=FFFFFF" /></a>
+  <a href="https://github.com/RuslanHAV"><img src="https://img.shields.io/static/v1?label=&message=Github&color=3a3a3a&logo=github&logoColor=FFFFFF" /></a>
   <a href="https://www.linkedin.com/in/Руслан-Гаврилов-b000ba236/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0072b1&logo=linkedin&logoColor=FFFFFF" /></a>
 </p>
   
